@@ -34,7 +34,7 @@ Cubbie: Here's the draft. Send it?
 
 | | Finds | From |
 | --- | --- | --- |
-| 🍕 | Free food in the next 48 hours that fits your diet | Club emails, Canvas, Slack and Discord notification emails, campus events |
+| 🍕 | Free food in the next 48 hours that fits your diet, with the SunDevilCentral link to RSVP | SunDevilCentral club events, ASU Events, club emails, Canvas, Slack and Discord notification emails |
 | 💵 | Paid research studies, ranked by pay per hour | Your email, department research pages |
 | 🎓 | Open scholarships, with a reminder 3 days before the deadline | ASU and trusted scholarship pages |
 | 🔎 | Hidden paid opportunities open to all majors but posted by another college | Every ASU college's website |
@@ -68,6 +68,7 @@ Like it? Vote for Freebie Radar at **[hackathon.cubbie.ai](https://hackathon.cub
 freebie-radar/
   SKILL.md                  what Cubbie does, step by step
   references/asu-sources.md ASU college, scholarship and research pages
+  scripts/sundevil_food.py  finds SunDevilCentral events that serve food
   scripts/seen.py           never sends the same find twice, sorts by date
   assets/sample_finds.json  sample data for trying the script
 ```

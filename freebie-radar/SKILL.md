@@ -55,15 +55,28 @@ background task and text the results when done.
 
 ### Free food
 
-1. If Google is connected, search the student's email from the last 7 days for club and department emails that
+1. Start with SunDevilCentral, ASU's club event platform. Run, from this Skill's folder, with the student's local
+   time now (Arizona time) and their campus from the profile:
+
+   ```bash
+   python3 scripts/sundevil_food.py --now <YYYY-MM-DDTHH:MM> --hours <hours> --campus <Tempe|Downtown|Poly|West Valley>
+   ```
+
+   Use `--hours 12` for "tonight", 48 by default, 168 for "this week" or the digest. Leave out `--campus` if
+   it isn't known. The script prints upcoming events whose title or description mentions food, each with the
+   club, start time, place, the food sentence and its SunDevilCentral link. Always give that link, on its own
+   line, so the student can RSVP and see the location (most events show it only after signing in to
+   SunDevilCentral). Check the food sentence yourself: skip events where food isn't really served, and say
+   "may cost" when `may_cost` is true. Exit code 3 means the feed is unreachable: go on with steps 2 to 4.
+2. If Google is connected, search the student's email from the last 7 days for club and department emails that
    mention food at an event (pizza, snacks, lunch, dinner, boba, "food provided", "refreshments"), including
    Slack and Discord notification emails.
-2. If Canvas is connected, read course and department announcements for events with food.
-3. Search ASU Events (https://asuevents.asu.edu) for this week's events on the student's campus that mention
-   free food. If it won't load, rely on steps 1 and 2.
-4. Keep only events in the next 48 hours (7 days for the digest) with a time and a place. Drop anything that
+3. If Canvas is connected, read course and department announcements for events with food.
+4. Search ASU Events (https://asuevents.asu.edu) for this week's events on the student's campus that mention
+   free food. If it won't load, rely on the steps above.
+5. Keep only events in the next 48 hours (7 days for the digest) with a time and a place (a SunDevilCentral link counts as the place, since it shows the location after sign-in). Drop anything that
    conflicts with the student's food preferences, has ended, or needs a paid ticket.
-5. A free-admission event with no food listed is not a food find. Mention at most one, last, as "free event, no
+6. A free-admission event with no food listed is not a food find. Mention at most one, last, as "free event, no
    food listed", and only when the student asked for anything free.
 
 ### Paid research studies

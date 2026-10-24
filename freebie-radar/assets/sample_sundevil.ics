@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:sample
+BEGIN:VEVENT
+ORGANIZER;CN="Sample Coding Club":mailto:noreply@example.edu
+CATEGORIES;X-CG-CATEGORY=event_tags:Club Meetings,In-Person Event,Tempe Campus,Undergraduate
+DTSTART:20261024T230000Z
+SUMMARY:Sample hack night
+LOCATION:Memorial Union 221, Tempe, AZ
+URL:https://sundevilcentral.eoss.asu.edu/rsvp?id=1
+DESCRIPTION:Build something with friends. Free pizza and drinks for everyone who RSVPs!
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Sample Culture Association":mailto:noreply@example.edu
+CATEGORIES;X-CG-CATEGORY=event_tags:Cultural,Downtown Phoenix Campus
+DTSTART:20261025T013000Z
+SUMMARY;ENCODING=QUOTED-PRINTABLE:Sample Diwali night
+LOCATION: Sign in to download the location
+URL:https://sundevilcentral.eoss.asu.edu/rsvp?id=2
+DESCRIPTION:Dance\, music and dinner will be provided. Tickets are $5 at the door.
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Sample Speakers Society":mailto:noreply@example.edu
+CATEGORIES;X-CG-CATEGORY=event_tags:Speaker,Tempe Campus
+DTSTART:20261025T020000Z
+SUMMARY:Sample professional dinner series
+LOCATION:Online
+URL:https://sundevilcentral.eoss.asu.edu/rsvp?id=3
+DESCRIPTION:A talk about careers in policy.
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Sample Chess Club":mailto:noreply@example.edu
+CATEGORIES;X-CG-CATEGORY=event_tags:Tempe Campus
+DTSTART:20261101T020000Z
+SUMMARY:Sample chess night
+LOCATION:Hayden Library
+URL:https://sundevilcentral.eoss.asu.edu/rsvp?id=4
+DESCRIPTION:Snacks provided.
+END:VEVENT
+END:VCALENDAR

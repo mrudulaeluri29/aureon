@@ -62,6 +62,6 @@ best source.
 | What | Page | Notes |
 | --- | --- | --- |
 | ASU Events | https://asuevents.asu.edu | Public; confirmed working on Cubbie on 2026-10-24. Event pages say whether food is provided |
-| SunDevilCentral | linked from https://eoss.asu.edu/clubs | Club events; loads with JavaScript and may need the browser or an ASU sign-in |
+| SunDevilCentral | https://sundevilcentral.eoss.asu.edu | Club events. Read it with `scripts/sundevil_food.py`, which uses the public calendar feed https://sundevilcentral.eoss.asu.edu/ical/arizonau/ical_arizonau.ics (about 5,000 events, no sign-in; checked 2026-10-24). Most event locations show only after signing in, so always give the event's link |
 
 If neither loads, use club emails, Canvas announcements and club pages instead.
