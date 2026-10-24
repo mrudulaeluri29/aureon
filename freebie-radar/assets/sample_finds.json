@@ -1,0 +1,17 @@
+[
+  {"type": "scholarship", "title": "Sample engineering scholarship", "when": "2026-11-10", "value": "$1,500",
+   "link": "https://example.edu/scholarship", "why": "Open to engineering undergraduates"},
+  {"type": "food", "title": "Free boba, Indian Student Assoc", "when": "2026-10-27T17:00",
+   "where": "Memorial Union", "value": "free", "link": "https://example.edu/event"},
+  {"type": "study", "title": "30 min online survey", "value": "$25 Amazon card ($50/hr)",
+   "link": "https://example.edu/study"},
+  {"type": "food", "title": "Pizza at the club meeting", "when": "2026-10-20T18:00", "where": "Brickyard",
+   "value": "free", "link": "https://example.edu/old-event"},
+  {"type": "opportunity", "title": "McLEAPS, Maricopa County internship",
+   "value": "stipend and tuition waiver (amounts differ between ASU pages)",
+   "link": "https://publicservice.asu.edu/impact/mcleaps-internships",
+   "why": "open to both undergraduate and graduate students from any major at ASU",
+   "posted_by": "Watts College of Public Service and Community Solutions"},
+  {"type": "food", "title": "Free Boba - Indian Student Assoc.", "when": "2026-10-27T17:00",
+   "where": "Memorial Union", "value": "free", "link": "https://example.edu/same-event-from-email"}
+]
