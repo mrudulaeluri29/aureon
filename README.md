@@ -2,7 +2,7 @@
 
 ### Cubbie now has a Freebie.
 
-**Free food, paid studies, and the internships your department never told you about, texted to you before they're gone.**
+**Free food, free money, zero FOMO.**
 
 Freebie Radar is a [Cubbie](https://cubbie.ai) Skill for students at Arizona State University. It finds free food,
 paid research studies, scholarships and paid opportunities open to every major, keeps only what fits the
