@@ -13,7 +13,19 @@ The worst part: some of the best opportunities are open to **every major** but p
 McLEAPS, a paid Maricopa County internship, is listed by ASU's Watts College as open to students "from any major
 at ASU". A CS or biology student would never look there.
 
-## What it looks like
+## Real tests on Cubbie (Oct 24, 2026)
+
+**"Any free food this week? I am on tempe campus"**: two real SunDevilCentral events with free food, each with
+its link, and a flag where the flyer and the calendar disagree on the start time.
+
+![Cubbie finding free food on SunDevilCentral](screenshots/free-food.jpg)
+
+**"I'm a CS major. any paid internships open to all majors that my department doesn't post?"**: McLEAPS,
+posted only by Watts College, open to any ASU major.
+
+![Cubbie finding McLEAPS, a paid internship open to all majors](screenshots/hidden-internship.jpg)
+
+## What a weekly digest looks like
 
 ```text
 You:    anything free this week?

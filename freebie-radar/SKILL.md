@@ -87,6 +87,11 @@ background task and text the results when done.
 2. Check the department research pages in `references/asu-sources.md`. Studies for course credit only are not
    paid; skip them unless the student asks for credit.
 3. Work out pay per hour ($20 for 30 minutes is $40 an hour).
+4. ASU studies come first: ones from the student's email, ASU labs and ASU pages. Add at most one online study
+   pool from outside ASU, and only as a backup when ASU finds are thin. Skip studies the student plainly can't
+   join (wrong age range, a city they're not in).
+5. Send at most 3 studies, a few lines each: name, pay and pay per hour, time, online or where, one "Needs:"
+   line, the sign-up link. End with "Want me to draft an email to the researcher?" for the best one.
 
 ### Scholarships
 
