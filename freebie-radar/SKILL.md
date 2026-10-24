@@ -87,6 +87,10 @@ background task and text the results when done.
 
 ### Hidden paid opportunities
 
+Stay on ASU's own pages. A hidden opportunity is one an ASU college or office posts, not a national internship,
+company job listing or job board. If the student wants a general internship search, say that's outside Freebie
+Radar and answer normally without this Skill.
+
 1. Read the college pages in `references/asu-sources.md`, plus a web search limited to each college's site for
    "internship", "fellowship", "stipend", "paid", "open to all majors", "any major".
 2. Keep an item only if it is paid or funded (stipend, wage, tuition waiver, award) **and** its page says
@@ -123,7 +127,8 @@ reason, send the results anyway and say nothing about it.
 
 ## 4. Send results
 
-Lead with what is happening soonest, then the highest value. At most 3 items per category in a text. If there
+Lead with what is happening soonest, then the highest value. At most 3 items per category in a text, and at
+most 3 hidden opportunities in total; pick the ones closing soonest. If there
 are more, make a one-page PDF with the documents ability, send it, and text a one-line summary.
 
 Keep each find to about four short lines: what it is, the value, one line of requirements, the date, then the
