@@ -25,7 +25,7 @@ posted only by Watts College, open to any ASU major.
 
 ![Cubbie finding McLEAPS, a paid internship open to all majors](screenshots/hidden-internship.jpg)
 
-## What a weekly digest looks like
+## Example reply
 
 ```text
 You:    anything free this week?
