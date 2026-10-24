@@ -59,10 +59,12 @@ background task and text the results when done.
    mention food at an event (pizza, snacks, lunch, dinner, boba, "food provided", "refreshments"), including
    Slack and Discord notification emails.
 2. If Canvas is connected, read course and department announcements for events with food.
-3. Search the web for this week's ASU events on the student's campus that mention free food. The events calendar
-   may need the browser; if it won't load, rely on steps 1 and 2.
+3. Search ASU Events (https://asuevents.asu.edu) for this week's events on the student's campus that mention
+   free food. If it won't load, rely on steps 1 and 2.
 4. Keep only events in the next 48 hours (7 days for the digest) with a time and a place. Drop anything that
    conflicts with the student's food preferences, has ended, or needs a paid ticket.
+5. A free-admission event with no food listed is not a food find. Mention at most one, last, as "free event, no
+   food listed", and only when the student asked for anything free.
 
 ### Paid research studies
 
@@ -124,15 +126,23 @@ reason, send the results anyway and say nothing about it.
 Lead with what is happening soonest, then the highest value. At most 3 items per category in a text. If there
 are more, make a one-page PDF with the documents ability, send it, and text a one-line summary.
 
+Keep each find to about four short lines: what it is, the value, one line of requirements, the date, then the
+link on its own line. Put a find's long details (hours, GPA, credits, background checks) on a single "Needs:"
+line, not a paragraph.
+
 For a hidden opportunity, include who posted it and the "why you qualify" line, so the student trusts it:
 
 ```text
-Paid internship open to ALL majors, posted by Watts College:
-McLEAPS, Maricopa County internship
-Why you qualify: "open to both undergraduate and graduate students from any major at ASU"
-Close date isn't listed, check the page:
+🔎 McLEAPS, paid county internship, posted by Watts College
+$6,000 stipend + tuition waiver
+Why you qualify: "from any major at ASU"
+Needs: 3.0 GPA, 60 credits, 40 hrs/week in person
+Apply by Nov 1, 11:59 pm (page labels it Fall 2026, confirm first)
 https://publicservice.asu.edu/impact/mcleaps-internships
 ```
+
+End the results with exactly one question, about the most useful next step: usually a reminder before the
+nearest deadline ("Want a reminder Oct 29, 3 days before it closes?"), or a draft email for a paid study.
 
 When two pages disagree (different amounts or dates), say so and link the official page instead of picking one.
 When a detail is missing, say it is missing instead of guessing.

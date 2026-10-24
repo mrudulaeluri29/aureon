@@ -59,5 +59,9 @@ best source.
 
 ## Events
 
-The SunDevilCentral events calendar loads with JavaScript and may need the browser or an ASU sign-in. If it
-won't load, use club emails, Canvas announcements and club pages instead.
+| What | Page | Notes |
+| --- | --- | --- |
+| ASU Events | https://asuevents.asu.edu | Public; confirmed working on Cubbie on 2026-10-24. Event pages say whether food is provided |
+| SunDevilCentral | linked from https://eoss.asu.edu/clubs | Club events; loads with JavaScript and may need the browser or an ASU sign-in |
+
+If neither loads, use club emails, Canvas announcements and club pages instead.
